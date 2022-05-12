@@ -1,4 +1,4 @@
-def is_prime(n):
+def isPrime(n):
     result= "Number is prime"
     if n <2:
         result = "Please enter a number greater than 2"
