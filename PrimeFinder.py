@@ -10,6 +10,6 @@ def isPrime(n):
             if n%x == 0:
                 result = "Number is not prime"
                 return result
-    return result
+    #return result
 
 
