@@ -1,3 +1,3 @@
 # PrimeCheck
 
-Function to check if a number is prime.
+Function to check if a number is prime. test
