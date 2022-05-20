@@ -13,3 +13,5 @@ def is_prime(n):
     return result
 
 
+def codeSMELL():
+    return "test"
